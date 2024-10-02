@@ -1,0 +1,1 @@
+Make sure you have all libraries you would need installed before you run the code. Code1 is the main file with the traffic light tracker file being called in code1 with the coco.txt file . Traffic red runners are detected by yolov10 and number plate captured and read with OCR . Enjoy !
